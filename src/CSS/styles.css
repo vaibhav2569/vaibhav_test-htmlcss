@@ -33,3 +33,10 @@ th{
     background-color: black;
     color: white;
 }
+table{
+    text-align: center;
+    width: 100%;
+}
+td{
+    border: rgb(159, 153, 153) 1px solid;
+}
