@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+}
+.p__head{
+    color: grey;
+}
+.content{
+    margin-bottom: 10px;
+  
+    display: flex;
+}
+.content__section{
+    width: 500px;
+    
+    
+}
+.aside{
+    width: 500px;
+    
+
+}
+.aside__message{
+  padding-right: 190px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    translate: 320px 0px;
+    margin-top: 10px;
+}
+th{
+    background-color: black;
+    color: white;
+}
